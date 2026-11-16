@@ -1,2 +1,3 @@
-# courses
-Teaching resources 
+# Courses
+
+Teaching resources. 
